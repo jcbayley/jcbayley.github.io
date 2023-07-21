@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Physics and Astronomy, Glasgow University 0ctober 2016 - June 2020
+  * STFC funded PhD titled {\it Non-parametric and machine learning techniques for continuous gravitational wave searches}. The main focus was to develop a fast method based to search through large data-sets for sources of continuous gravitational waves. For this I was awarded the Kelvin thesis prize from the University of Glasgow.
+* Msci Astrophysics, Royal Holloway University of London, September 2012 - June 2016
+  * Courses included: Stellar Astrophysics, General Relativity \& cosmology, Particle Astrophysics etc. Overall Percentage: 71% (1st)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2021 - present: Research Associate
+  * University of Glasgow
+  * Research duties include, developing data analysis techniques for searching for and inferring properties of Neutron stars and Black holes. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Nov 2019 - Aug 2021: Research Assistant
+  * University of Glasgow
+  * Research duties include, developing data analysis techniques for continuous gravitational wave searches. 
+
+* Feb 2018 - June 2018: Research Fellow
+  * Located at LIGO Livingston detector, I worked with others developing software titled Armadillo, the aim was to model the digital control systems of LIGO.
+
+* 2013 - 2015: Outdoor instructor
+ * Run outdoor activity sessions for all ages, including: Quad biking, Rock climbing, Bushcraft and more.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (9 years):
+  * Bayesian inference: MCMC, Nested sampling
+  * Machine learning: Pytorch, Keras, Tensorflow
+* Other languages: Latex (9 years), HTML (2 years), javascript (2 years), C++ (1 year), Rust ($<1$ year)
 
 Publications
 ======
@@ -54,6 +57,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
