@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm Joe Bayley a researcher at the University of Glasgow, primarily focussing on developing machine learning methods to help search for and characterise gravitational wave signals.
+I'm Joe Bayley a research associate at the University of Glasgow, primarily focussing on developing machine learning methods to help search for and characterise gravitational wave signals.
 
