@@ -1,11 +1,11 @@
 ---
-title: "Multi messenger CW workshop, Amsterdam"
+title: "European conference for AI in fundemental physics, Amsterdam"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2023-07-11-mmcw
-venue: "University of Amsterdam"
-date: 2023-07-11
+type: "Talk"
+permalink: /talks/2024-05-05-eucaifcon
+venue: "Amsterdam"
+date: 2024-05-05
 location: "Amsterdam"
 ---
 
-Run a workshop: Wide parameter space searches and machine learning for neutron star parameter estiamtion.
+Presented analysis using generative AI to reconstruct the possible dynamics of a gravitational system dynamics from a gravitational wave waveform.
