@@ -8,4 +8,4 @@ date: 2022-04-11
 location: "Valencia, Spain"
 ---
 
-Presented work on using machine learning to estimate Bayesian posterior distributions. 
+Delivered a presentation descibing the method and results used to estimate Bayesian posterior distributions using machine learning. Here we developed a custom conditional variational autoencoder to estimate the posteriors, then presented results of similarity to known and correct posterior distributions. 
