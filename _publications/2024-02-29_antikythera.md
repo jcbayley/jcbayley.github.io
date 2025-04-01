@@ -10,3 +10,4 @@ citation: 'Graham Woan and Joseph Bayley, ‘An Improved Calendar Ring Hole-Coun
 ---
 
 [Download paper here](https://bhi.co.uk/wp-content/uploads/2024/06/07-HJJuly24-AOTM-2.pdf)
+NYT article: [https://www.nytimes.com/2024/07/05/science/antikythera-mechanism-gravitational-waves-lunar.html](https://www.nytimes.com/2024/07/05/science/antikythera-mechanism-gravitational-waves-lunar.html)
