@@ -184,15 +184,8 @@ ax.plot(xdata,ydata)
 ```
 
 
-
-
-    [<matplotlib.lines.Line2D at 0x119baac10>]
-
-
-
-
     
-![png](20191016_Bayesian_tutorial_emcee_files/20191016_Bayesian_tutorial_emcee_10_1.png)
+![png](20191016_Bayesian_tutorial_emcee_10_1.png)
     
 
 
@@ -309,7 +302,7 @@ ig = corner.corner(samples, labels=parlist,truths=truths,truth_color="C1", color
 
 
     
-![png](20191016_Bayesian_tutorial_emcee_files/20191016_Bayesian_tutorial_emcee_22_0.png)
+![png](20191016_Bayesian_tutorial_emcee_22_0.png)
     
 
 
@@ -361,7 +354,7 @@ ax.set_ylabel("Volts")
 
 
     
-![png](20191016_Bayesian_tutorial_emcee_files/20191016_Bayesian_tutorial_emcee_26_1.png)
+![png](20191016_Bayesian_tutorial_emcee_26_1.png)
     
 
 
@@ -414,7 +407,7 @@ ax.get_xaxis().get_major_formatter().set_useOffset(False)
 
 
     
-![png](20191016_Bayesian_tutorial_emcee_files/20191016_Bayesian_tutorial_emcee_33_0.png)
+![png](20191016_Bayesian_tutorial_emcee_33_0.png)
     
 
 
